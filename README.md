@@ -26,7 +26,7 @@ Se utilizan modelos personalizados como `VGGStyleModel`, `SimpleCNN`, `TinyCNN`,
 | `SimpleCNN`   | 2 Conv + 2 FC    | >99%              |
 | `VGGStyle`    | 5 Conv + 3 FC    |  >99%             |
 
-> Se prueba la capacidad de modelos de distintas complejidades para evaluar si la complejidad de la clasifición dentro del dataset.
+> Se prueba la capacidad de modelos de distintas complejidades para evaluar la clasifición entre 5 clases del dataset propuesto.
 
 ---
 
